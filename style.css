@@ -27,6 +27,16 @@
     align-items: center;
 }
 
+.li-menu-top {
+    background-color: white;
+    color: black;
+}
+
+.li-menu-top:hover {
+    background-color:black;
+    color: white;
+}
+
 /* =================== Section Middle ==================== */
 
 .section-middle {
